@@ -1,4 +1,4 @@
-/* General Styles */
+/* General */
 body {
     background-image: linear-gradient(to right, #58181e , #9e1c30);
     display: flex;
@@ -130,13 +130,6 @@ h2 {
     border-radius: 20px;
     font-size: 1rem;
     color: black;
-}
-
-/* Hover effect for Image Boxes */
-
-.next-btn {
-    top: 20px;
-    right: 20px;
 }
 
 /* Button Container */
